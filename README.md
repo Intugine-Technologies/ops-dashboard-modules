@@ -8,14 +8,13 @@
 |`BLACKLIST_CLIENTS`| separated by comma |
 |`BLACKLIST_CLIENT_CLIENT`| separated by comma |
 |`ETA_TIME_FACTOR`| `3.14` |
-|`TIME_FACTOR`|`foro stopped in midway`|
+|`TIME_FACTOR`|`for stopped in midway`|
 |`DIST_THRESHOLD`| `trips not in motion distance threshold in meters` |
+|`voltage`| between 3.65-4.2|
 
 ## Battery Percentage
 
 Prints battery percentage
-
-> voltage between 3.65 to 4.2  
 
     python3 battery_percenatge.py voltage
     python3 battery_percenatge.py 3.9
